@@ -1,0 +1,28 @@
+body {
+    background-color: darkblue;
+    color: aqua;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.cyan {
+    color: blue;
+    font-family: cursive;
+}
+
+.blue {
+    background-color: black;
+    color: floralwhite;
+    font-family: cursive;
+}
+
+.black {
+    background-color: darkblue;
+    color: aqua;
+    font-family: cursive;
+}
